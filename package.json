@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "express": "^4.21.1",
-    "node": "^22.10.0"
-  }
-}
